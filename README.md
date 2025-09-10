@@ -18,6 +18,6 @@
 - 최근 본 매물, 즐겨찾기 Vue 구현
 
 ★실행 화면
-마이페이지(./FrontEnd/Screenshots/등록한%20매물.PNG)
-최근 본 매물(./FrontEnd/Screenshots/최근%20본%20매물.PNG)
-즐겨찾기(./FrontEnd/Screenshots/즐겨찾기.PNG)
+- 마이페이지(./FrontEnd/Screenshots/등록한%20매물.PNG)
+- 최근 본 매물(./FrontEnd/Screenshots/최근%20본%20매물.PNG)
+- 즐겨찾기(./FrontEnd/Screenshots/즐겨찾기.PNG)
